@@ -26,10 +26,17 @@ Please install the following packages in Python3:
 
 ## Dimension of Input Data
 
-- X_inbred: The one-hot matrix of inbred ID with the dimension of `m-by-nb`, where `m` is the number of observations and `nb` is the number of inbreds.
+- X_inbred: one-hot matrix of inbred ID with the dimension of `m-by-nb`, where `m` is the number of observations and `nb` is the number of inbreds.
 
-- X_tester: The one-hot matrix of tester ID with the dimension of `m-by-nt`, where `m` is the number of observations and `nt` is the number of inbreds.
+- X_tester: one-hot matrix of tester ID with the dimension of `m-by-nt`, where `m` is the number of observations and `nt` is the number of testers.
 
+- X_inbred_cluster: one-hot matrix of inbred genetic ID with the dimension of `m-by-ncb`, where `m` is the number of observations and `ncb` is the number of genetic groups for inbreds.
+
+
+- X_tester_cluster: one-hot matrix of inbred genetic ID with the dimension of `m-by-nct`, where `m` is the number of observations and `nct` is the number of genetic groups for testers.
+
+
+- X_loc: one-hot matrix of location ID with the dimension of `m-by-nl`, where `m` is the number of observations and `nl` is the number of planting locations.
 
 
  
