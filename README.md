@@ -11,4 +11,4 @@ locations between 2016 and 2018 and asked participants to predict the yield perf
 combinations of inbreds and testers that have not been planted based on the historical yield data
 collected from crossing other inbreds and testers. In this paper, we present a collaborative filtering
 method which is an ensemble of matrix factorization method and neural networks to solve this
-problem
+problem.
