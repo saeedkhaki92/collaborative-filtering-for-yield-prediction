@@ -38,7 +38,7 @@ Please install the following packages in Python3:
 
 - X_loc : one-hot matrix of location ID with the dimension of `m-by-nl`, where `m` is the number of observations and `nl` is the number of planting locations.
 
-- Y : the vector of response variables (yield) with the dimension of `m-by-1`.
+- Yield : the vector of response variables (yield) with the dimension of `m-by-1`.
 
 For more information, please see the data section of the paper.
 
