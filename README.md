@@ -22,3 +22,10 @@ Please install the following packages in Python3:
 - numpy
 - tensorflow
 - matplotlib
+
+
+## Dimension of Input Data
+
+- a
+
+
