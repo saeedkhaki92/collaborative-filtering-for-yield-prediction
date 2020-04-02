@@ -41,7 +41,7 @@ Please install the following packages in Python3:
 For more information, please see the data section of the paper.
 
 
-Data Availability:
+## Data Availability:
 
 The data analyzed in this study was provided by Syngenta for 2020 Syngenta Crop Challenge. We accessed the data
 through annual Syngenta Crop Challenge. During the challenge, September 2019 to January 2020, the data was open to
