@@ -38,6 +38,15 @@ Please install the following packages in Python3:
 
 - X_loc : one-hot matrix of location ID with the dimension of `m-by-nl`, where `m` is the number of observations and `nl` is the number of planting locations.
 
+For more information, please see the data section of the paper.
+
+
+Data Availability:
+
+The data analyzed in this study was provided by Syngenta for 2020 Syngenta Crop Challenge. We accessed the data
+through annual Syngenta Crop Challenge. During the challenge, September 2019 to January 2020, the data was open to
+the public. Data cannot be shared publicly because of non-disclosure agreement. Researchers who wish to access the data may do so by contacting Syngenta directly.
+
 
  
 
