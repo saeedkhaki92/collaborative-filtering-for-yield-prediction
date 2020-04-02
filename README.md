@@ -12,3 +12,13 @@ combinations of inbreds and testers that have not been planted based on the hist
 collected from crossing other inbreds and testers. In this paper, we present a collaborative filtering
 method which is an ensemble of matrix factorization method and neural networks to solve this
 problem.
+
+
+
+## Getting Started 
+
+Please install the following packages in Python3:
+
+- numpy
+- tensorflow
+- matplotlib
