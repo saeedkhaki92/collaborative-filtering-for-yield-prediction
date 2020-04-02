@@ -26,6 +26,12 @@ Please install the following packages in Python3:
 
 ## Dimension of Input Data
 
-- a
+- X_inbred: The one-hot matrix of inbred ID with the dimension of `m`-by-`nb`, where `m` is the number of observations and `nb` is the number of inbreds.
+
+
+
+
+
+ 
 
 
