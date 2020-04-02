@@ -9,27 +9,27 @@ import matplotlib.pylab as plt
 
 
 
-X_inbred=np.load('./Syngenta2020/X_inbred_all.npz')['data']
+X_inbred=np.load('./X_inbred.npz')['data']
 
 print(X_inbred.shape)
 
-X_tester=np.load('./Syngenta2020/X_tester_all.npz')['data']
+X_tester=np.load('./X_tester.npz')['data']
 
 print(X_tester.shape)
 
-X_inbred_cluster=np.load('./Syngenta2020/X_inbred_cluster_all.npz')['data']
+X_inbred_cluster=np.load('.X_inbred_cluster.npz')['data']
 
 print(X_inbred_cluster.shape)
 
-X_tester_cluster=np.load('./Syngenta2020/X_tester_cluster_all.npz')['data']
+X_tester_cluster=np.load('./X_tester_cluster.npz')['data']
 
 print(X_tester_cluster.shape)
 
-Y=np.load('./Syngenta2020/Avg_Yield_all.npz')['data']
+Y=np.load('./Yield.npz')['data']
 print(Y.shape)
 
 
-X_loc=np.load('./Syngenta2020/X_location_ID.npz')['data']
+X_loc=np.load('./X_location_ID.npz')['data']
 
 print(X_loc.shape)#280
 
