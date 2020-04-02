@@ -26,9 +26,9 @@ Please install the following packages in Python3:
 
 ## Dimension of Input Data
 
-- X_inbred: The one-hot matrix of inbred ID with the dimension of `m`-by-`nb`, where `m` is the number of observations and `nb` is the number of inbreds.
+- X_inbred: The one-hot matrix of inbred ID with the dimension of `m-by-nb`, where `m` is the number of observations and `nb` is the number of inbreds.
 
-
+- X_tester: The one-hot matrix of tester ID with the dimension of `m-by-nt`, where `m` is the number of observations and `nt` is the number of inbreds.
 
 
 
