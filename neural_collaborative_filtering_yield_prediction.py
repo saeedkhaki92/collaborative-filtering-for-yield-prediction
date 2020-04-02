@@ -17,7 +17,7 @@ X_tester=np.load('./X_tester.npz')['data']
 
 print(X_tester.shape)
 
-X_inbred_cluster=np.load('.X_inbred_cluster.npz')['data']
+X_inbred_cluster=np.load('./X_inbred_cluster.npz')['data']
 
 print(X_inbred_cluster.shape)
 
