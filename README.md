@@ -47,7 +47,7 @@ For more information, please see the data section of the paper.
 
 The data analyzed in this study was provided by Syngenta for 2020 Syngenta Crop Challenge. We accessed the data
 through annual Syngenta Crop Challenge. During the challenge, September 2019 to January 2020, the data was open to
-the public. Researchers who wish to access the data can contact Syngenta through <a href="https://www.ideaconnection.com/syngenta-crop-challenge/contact.php" target="_blank">this website</a>.
+the public. Researchers who wish to access the data can send their request to Syngenta through <a href="https://www.ideaconnection.com/syngenta-crop-challenge/contact.php" target="_blank">this website</a>.
 
 
  
